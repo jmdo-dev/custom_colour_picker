@@ -37,6 +37,10 @@ render() {
           />
         )}
       />
+      <Route 
+        path='/palette/:paletteId/:colorId' 
+        render={() => <h1> SINGLE COLOR PAGE </h1>}
+      />
     </Switch>
     // <div>
     //   <Palette palette={generatePalette(seedColors[4])}/>
