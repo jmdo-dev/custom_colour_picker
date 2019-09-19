@@ -21,7 +21,6 @@ export default {
     alignItems: 'center',
     color: 'white',
     '& a': {
-      textDecoration: 'none',
       color: 'white',
     },
   },
