@@ -26,7 +26,7 @@
   },
   "homepage": "https://github.com/jmdo-dev/colour_picker#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "path": "^0.12.7"
   }
 }
